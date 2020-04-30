@@ -12,6 +12,14 @@ Data visualization: Matplotlib, Seaborn;
 
 Modeling: Scikit-learn; 
 
-This repo contains 2 files: project1.ipynb, which contains the entire code of modelling; and data.csv, which is the dataset.
+
+This repo contains 3 files: 
+
+project1.ipynb, which contains the entire code of modelling; and 
+
+data.csv, which is the dataset; 
+
+finally there is a link to the blog I wrote about this project.
+
 
 After the analysis, we are able to land on the modeling approach that best fit this type of task. It turns out to be the Logistic Regression, over the Random Forest and Priciple Component Analysis + Support Vectors Machines.
