@@ -25,4 +25,5 @@ This repo contains 3 files:
 After the analysis, we are able to land on the modeling approach that best fit this type of task. It turns out to be the Logistic Regression, over the Random Forest and Priciple Component Analysis + Support Vectors Machines.
 
 Link to Github repo:    https://github.com/Sean329/Udacity-DS-Nanodegree-Project1
+
 Link to the blog:   https://medium.com/@xiangyuxu329/machines-over-physicians-dd14edad3022
