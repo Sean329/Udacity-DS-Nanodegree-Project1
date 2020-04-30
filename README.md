@@ -5,8 +5,8 @@ trying to predict the Diagnosis (M = malignant, B = benign); meanwhile comparing
 most suitable method to deal with this type of data.
 
 The libraries used in this project are as follows:
-  Data processing: Numpy, Pandas; 
-  Data visualization: Matplotlib, Seaborn; 
-  Modeling: Scikit-learn; 
+Data processing: Numpy, Pandas; 
+Data visualization: Matplotlib, Seaborn; 
+Modeling: Scikit-learn; 
 
 This repo contains 1 file: project1.ipynb, which contains the entire code of modelling.
